@@ -1,0 +1,7 @@
+{
+    "站名": "996白嫖ys",
+    "主页url": "http://www.baipiaoys.com",
+    "分类": "电影$1#电视剧$2#动漫$3#短剧$4#综艺$5",
+    "搜索url": "http://www.baipiaoys.com/search.html?wd={wd}",
+    "分类url": "http://www.baipiaoys.com/show/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/year/{year}/page/{catePg}.html"
+}
