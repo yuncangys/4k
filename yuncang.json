@@ -17,7 +17,7 @@
       "changeable": 1,
       "ext": "https://gitlab.com/xmbjm/zrj/-/raw/main/lib/TVB云播.js"
     },
-    {"key": "玩偶哥哥","name": "4K弹幕-💯┃vip","type": 3,"api": "csp_WoGG","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://www.wogg.xyz/$$$弹","jar": "./饭原版.bin"},
+    {"key":"玩偶","name":"4K弹幕-💯┃vip","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0, "ext": {"aliToken":"tvfan/token.txt","quarkCookie":"tvfan/cookie.txt","from":"4k|auto|fhd","siteUrl":"https://api.wogg.xyz/","danMu":"弹"},"jar":"./饭原版.bin"},
     {"key": "玩我哥哥","name":"4K云仓-💯┃vip","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"playerType":1,"ext":"./玩我.json"},
     {"key":"csp_XYQHikerAL_土豆阿里","name":"4K阿里💯┃vip","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"./土豆.json"},
     {"key":"csp_XYQHikerAL_玩偶表哥","name":"4K表哥💯┃vip","type":3,"api":"csp_XYQHikerAL","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./表哥.json"},
