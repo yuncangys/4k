@@ -26,7 +26,7 @@
     },
     {"key": "csp_魔力影视","name":"魔力2K-💯┃vip","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar":"./0104.jar","ext":"./魔力.json"},
     {"key":"csp_文才","name":"云仓在线-💯┃vip","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"changeable":1,"jar":"./0104.jar","ext":"./文才.json"},
-    {"key":"csp_sxtv","name":"神仙在线-💯┃2k","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://cally66.icu/xbpq/神仙.json"},
+    {"key":"csp_sxtv","name":"神仙在线-💯┃2k","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"changeable":1,"ext":"./神仙.json"},
     {
       "key": "csp_qx",
       "name": "七新云仓-💯┃vip",
