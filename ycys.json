@@ -127,21 +127,19 @@
             "changeable": 0
         },
         {
-            "key": "玩偶弹幕",
-            "name": "玩偶网盘-💯┃vip",
+            "key": "夸克多多弹幕",
+            "name": "多多网盘｜弹幕",
             "type": 3,
-            "api": "csp_Wogg",
-            "searchable": 1,
+            "api": "csp_Wobg",
             "quickSearch": 1,
+            "changeable": 1,
             "filterable": 1,
             "ext": {
                 "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
                 "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
-                "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
-                "wogg": true,
+                "site": "https://tv.yydsys.top",
                 "danmu": true
-            },
-            "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/danmu.jar;md5;79f4aaa5e0117750d0b141bbd90a260d"
+            }
         },
         {"key":"爱奇艺","name":"爱奇异-💯┃2k","type":3,"api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/drpy2.min.js","ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/爱奇艺.js"},
 	{"key":"优酷视频","name":"优库-💯┃2k","type":3,"api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/drpy2.min.js","ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/优酷视频.js"},
