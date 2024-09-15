@@ -71,24 +71,25 @@
 			"key": "hipy_js_腾云驾雾[官]",
 			"name": "腾云-💯┃VIP",
 			"type": 3,
-			"api": "http://193.134.211.100:1888/tv/ijia/4kk/lib/drpy2.min.js",
+			"api": "http://101.201.33.24/drpy/drpy_libs/drpy2.min.js",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
 			"order_num": 0,
 			"changeable": 0,
-			"ext": "http://www.mpanso.com/%E5%B0%8F%E7%B1%B3/tx.js"
+			"ext": "http://101.201.33.24/drpy/drpy_jss/腾云驾雾[官].js",
+			"jar":"http://101.201.33.24/drpy/custom_spider.jar"
 		},
 		{
             "key": "腾讯视频",
-            "name": "腾腾｜视频",
+            "name": "腾腾-💯｜备用",
             "type": 3,
             "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/drpy2.min.js",
             "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/腾讯视频.js"
         },
     {"key":"芒果视频","name":"笀芒4K-💯┃vip","type":3,"playerType":1,"api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/drpy2.min.js","ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/芒果视频.js"},
 		{"key":"芒果","name":"忙忙┃4K","type":3,"api":"http://1.12.237.246:9696/tvbox/lib/drpy2.min.js","ext":"http://1.12.237.246:9696/tvbox/lib/mangguo.js"},
-		{"key": "csp_瓜子","name": "小米瓜子-💯┃3K","api": "csp_Gz360","type": 3,"searchable": 1,"playerType": 2,"timeout": 30,"changeable": 0,"jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1724726039958/ouyang1.txt;md5;f0fe66c0299c3e68a450add5945adad1"},
+		{"key": "csp_瓜子","name": "瓜子3K-💯┃vip","api": "csp_Gz360","type": 3,"searchable": 1,"playerType": 2,"timeout": 30,"changeable": 0,"jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1724726039958/ouyang1.txt;md5;f0fe66c0299c3e68a450add5945adad1"},
 		{"key": "酷看","name": "酷看-💯┃2K","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.tvkuys.xyz/api.php/app/"},
 		{"key": "csp_LiteApple","name": "🍎小苹果-💯┃2k","type": 3,"searchable": 1,"api": "csp_LiteApple","playerType": 1,"filterable": 1},
         {"key": "csp_paopao", "name": "泡泡-💯┃2K", "type": 3, "changeable": 0,"api": "csp_Pptv", "playerType": 2, "filterable": 1, "ext": "https://yigeg.pro","jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1724936798422/xpg1.jar;md5;d982e61fe8a00da65435afd86938d2da"}, 
@@ -126,6 +127,13 @@
             "filterable": 1,
             "changeable": 0
         },
+        {
+			"key": "csp_yunbo",
+			"name": "云播-💯┃2K",
+			"type": 3,
+			"api": "csp_Tvyb",
+			"playerType": 2
+		},
         {
             "key": "夸克多多弹幕",
             "name": "多多网盘｜弹幕",
@@ -188,6 +196,37 @@
     {"key":"腐剧视频","name":"腐剧视频-💯","type":3,"api":"csp_WexFujutv","searchable":1,"changeable":1,"jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar;md5;7ddc08e410d76ceb8af9209e828a46f4"},
 {"key":"云仓高速","name":"云仓高速-💯┃秒播","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/XYQHiker/子子影视.json"},
 {"key":"在线之家","name":"在线之家-💯┃2K","type":3,"api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/drpy.min.js","ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/在线之家.js"},
+{
+            "key": "文采影视",
+            "name": "文采-💯┃2K",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "changeable": 0,
+            "jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1704761840381/c (1).txt;md5;bb155c3f0133bbce4756ad52003f5968",
+            "ext": {
+                "主页url": "https://www.hkybqufgh.com/",
+                "简介": "</label>&&</div>",
+                "嗅探词": "m3u8",
+                "影片类型": "tags\">&&director\">",
+                "影片状态": "bottom\">&&</div>",
+                "二次截取": "videoList\":\\[&&\\]",
+                "数组": "{&&}[不包含:伦理剧]",
+                "图片": "https+://ywxohs.com+obs.gduamoe.com&&\",",
+                "标题": "vodName\":\"&&\"",
+                "副标题": "vodRemarks\":\"&&\"",
+                "链接": "https://www.hkybqufgh.com/detail/+vodId\":&&,",
+                "导演": "导演:</div>&&主演",
+                "主演": "主演:</div>&&别名",
+                "线路标题": "小米文采",
+                "播放数组": "listitem\">&&info\">",
+                "播放列表": "<a&&</a>",
+                "倒序": "否",
+                "搜索url": "https://www.hkybqufgh.com/vod/search/{wd}",
+                "搜索副标题": "class=\"boottom\"*<div>&&</div",
+                "分类": "电影$1#电视剧$2#综艺$3#动漫$4",
+                "分类url": "https://www.hkybqufgh.com/vod/show/id/{cateId}/class/{class}/year/{year}/area/{area}/page/{catePg}"
+            }
+        },
     {
      "key": "csp_XBPQ_6V",
      "name": "云仓专享-💯┃2k",
@@ -538,7 +577,7 @@
             "type": "1"
         },
         {
-            "name": "线路②",
+            "name": "解析②",
             "type": 0,
             "url": "https://jx.xmflv.com/?url=",
             "ext": {
@@ -551,7 +590,7 @@
         {
             "name": "解析④",
             "type": 1,
-            "url": "http://www.mpanso.com/反弹/反弹.php?url=",
+            "url": "http://43.242.202.173:3636/json.php/?key=729947817&url=",
             "ext": {
                 "flag": [
                     "qq",
