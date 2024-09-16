@@ -5,7 +5,7 @@
   "warningText":"欢迎使用云仓影视",
   
     "sites": [
-        {"key":"豆瓣","name":"📽️聚🈴搜索⇙最新数据➮长按[主页/换源]或到设置➮[重置APP]","type":3,"api":"csp_Douban","searchable":0},
+        {"key":"豆瓣","name":"📽️聚🈴搜索⇙最新数据➮点开设置➮[重置APP]","type":3,"api":"csp_Douban","searchable":0},
         {
             "key": "配置中心",
             "name": "⚙️配置｜中心",
@@ -14,11 +14,8 @@
             "searchable": 0,
             "changeable": 0,
             "indexs": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 1.597
-            },
-            "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/danmu.jar;md5;79f4aaa5e0117750d0b141bbd90a260d"
+            "style": {"type": "rect","ratio": 1.597},
+            "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/danmu.jar;md5;7de46c7534b68d446aa91e6ecfb267cd"
         },
 	{
 			"key": "4K",
@@ -69,7 +66,7 @@
 		},
         {
 			"key": "hipy_js_腾云驾雾[官]",
-			"name": "腾云-💯┃VIP",
+			"name": "4KHDR-💯┃VIP",
 			"type": 3,
 			"api": "http://101.201.33.24/drpy/drpy_libs/drpy2.min.js",
 			"searchable": 1,
@@ -82,13 +79,13 @@
 		},
 		{
             "key": "腾讯视频",
-            "name": "腾腾-💯｜备用",
+            "name": "腾云4K-💯｜备用",
             "type": 3,
             "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/drpy2.min.js",
             "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/腾讯视频.js"
         },
-    {"key":"芒果视频","name":"笀芒4K-💯┃vip","type":3,"playerType":1,"api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/drpy2.min.js","ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/芒果视频.js"},
-		{"key":"芒果","name":"忙忙┃4K","type":3,"api":"http://1.12.237.246:9696/tvbox/lib/drpy2.min.js","ext":"http://1.12.237.246:9696/tvbox/lib/mangguo.js"},
+    {"key":"芒果视频","name":"笀芒4K-💯┃vip","type":3,"api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/drpy2.min.js","ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/芒果视频.js"},
+		{"key":"芒果","name":"忙忙┃备用","type":3,"api":"http://1.12.237.246:9696/tvbox/lib/drpy2.min.js","ext":"http://1.12.237.246:9696/tvbox/lib/mangguo.js"},
 		{"key": "csp_瓜子","name": "瓜子3K-💯┃vip","api": "csp_Gz360","type": 3,"searchable": 1,"playerType": 2,"timeout": 30,"changeable": 0,"jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1724726039958/ouyang1.txt;md5;f0fe66c0299c3e68a450add5945adad1"},
 		{"key": "酷看","name": "酷看-💯┃2K","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.tvkuys.xyz/api.php/app/"},
 		{"key": "csp_LiteApple","name": "🍎小苹果-💯┃2k","type": 3,"searchable": 1,"api": "csp_LiteApple","playerType": 1,"filterable": 1},
@@ -576,16 +573,7 @@
             },
             "type": "1"
         },
-        {
-            "name": "解析②",
-            "type": 0,
-            "url": "https://jx.xmflv.com/?url=",
-            "ext": {
-                "header": {
-                    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57"
-                }
-            }
-        },
+        {"name":"解析②","type":1,"url":"https://jxjson.icu/neibu.php?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","tnmb","seven","bilibili","1905","NetFilx"],"header":{"User-Agent":"okhttp/4.9.1"}}},
         {"name":"解析③","type":1,"url":"https://jf.lemiaoyun.cn/api/?key=86950663b3198d25885fdf61501a3366&url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","tnmb","seven","bilibili","1905","NetFilx"],"header":{"User-Agent":"okhttp/4.9.1"}}},
         {
             "name": "解析④",
