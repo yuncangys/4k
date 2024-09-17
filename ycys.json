@@ -6,17 +6,7 @@
   
     "sites": [
         {"key":"豆瓣","name":"📽️聚🈴搜索⇙最新数据➮点开设置➮[重置APP]","type":3,"api":"csp_Douban","searchable":0},
-        {
-            "key": "配置中心",
-            "name": "⚙️配置｜中心",
-            "type": 3,
-            "api": "csp_Config",
-            "searchable": 0,
-            "changeable": 0,
-            "indexs": 0,
-            "style": {"type": "rect","ratio": 1.597},
-            "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/danmu.jar;md5;7de46c7534b68d446aa91e6ecfb267cd"
-        },
+        {"key": "配置中心","name": "⚙️配置｜中心","type": 3,"api": "csp_Config","searchable": 0,"changeable": 0,"indexs": 0,"style": {"type": "rect","ratio": 1.597},"jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/danmu.jar;md5;7de46c7534b68d446aa91e6ecfb267cd"},
 	{
 			"key": "4K",
 			"name": "云仓4K-💯┃vip",
@@ -562,8 +552,10 @@
       "type": 3,
       "url": "Demo"
     },
-    {
-            "name": "解析➊",
+    {"name":"解析①","type":1,"url":"http://43.136.176.188:91/api/?key=9365a508f79aa1bbddb36e1e375d07ab&url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","tnmb","seven","bilibili","1905","NetFilx"],"header":{"User-Agent":"okhttp/4.9.1"}}},
+        {"name":"解析②","type":1,"url":"https://jxjson.icu/neibu.php?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","tnmb","seven","bilibili","1905","NetFilx"],"header":{"User-Agent":"okhttp/4.9.1"}}},
+        {
+            "name": "解析③",
             "url": "http://llyh.xn--yi7aa.top/api/?key=5b317c16d457b31a3150d87c0a362a9e&url=",
             "flag": [
                 "LXTX"
@@ -572,9 +564,7 @@
                 "User-Agent": "Dalvik/2.1.0"
             },
             "type": "1"
-        },
-        {"name":"解析②","type":1,"url":"https://jxjson.icu/neibu.php?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","tnmb","seven","bilibili","1905","NetFilx"],"header":{"User-Agent":"okhttp/4.9.1"}}},
-        {"name":"解析③","type":1,"url":"http://43.136.176.188:91/api/?key=9365a508f79aa1bbddb36e1e375d07ab&url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","tnmb","seven","bilibili","1905","NetFilx"],"header":{"User-Agent":"okhttp/4.9.1"}}}
+        }
   ],
   "doh": [
   {
