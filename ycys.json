@@ -155,37 +155,6 @@
     {"key":"腐剧视频","name":"腐剧视频-💯","type":3,"api":"csp_WexFujutv","searchable":1,"changeable":1,"jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar;md5;7ddc08e410d76ceb8af9209e828a46f4"},
 {"key":"云仓高速","name":"云仓高速-💯┃秒播","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/XYQHiker/子子影视.json"},
 {"key":"在线之家","name":"在线之家-💯┃2K","type":3,"api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/drpy.min.js","ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/在线之家.js"},
-{
-            "key": "文采影视",
-            "name": "文采-💯┃2K",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "changeable": 0,
-            "jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1704761840381/c (1).txt;md5;bb155c3f0133bbce4756ad52003f5968",
-            "ext": {
-                "主页url": "https://www.hkybqufgh.com/",
-                "简介": "</label>&&</div>",
-                "嗅探词": "m3u8",
-                "影片类型": "tags\">&&director\">",
-                "影片状态": "bottom\">&&</div>",
-                "二次截取": "videoList\":\\[&&\\]",
-                "数组": "{&&}[不包含:伦理剧]",
-                "图片": "https+://ywxohs.com+obs.gduamoe.com&&\",",
-                "标题": "vodName\":\"&&\"",
-                "副标题": "vodRemarks\":\"&&\"",
-                "链接": "https://www.hkybqufgh.com/detail/+vodId\":&&,",
-                "导演": "导演:</div>&&主演",
-                "主演": "主演:</div>&&别名",
-                "线路标题": "小米文采",
-                "播放数组": "listitem\">&&info\">",
-                "播放列表": "<a&&</a>",
-                "倒序": "否",
-                "搜索url": "https://www.hkybqufgh.com/vod/search/{wd}",
-                "搜索副标题": "class=\"boottom\"*<div>&&</div",
-                "分类": "电影$1#电视剧$2#综艺$3#动漫$4",
-                "分类url": "https://www.hkybqufgh.com/vod/show/id/{cateId}/class/{class}/year/{year}/area/{area}/page/{catePg}"
-            }
-        },
     {
      "key": "csp_XBPQ_6V",
      "name": "云仓专享-💯┃2k",
@@ -319,20 +288,6 @@
       "type": 3,
       "api": "https://d.kstore.space/download/6509/lib3/apiv515drpy2.min.js",
       "ext": "https://d.kstore.space/download/6509/lib3/%E8%99%8E%E7%89%99%E7%9B%B4%E6%92%AD.js",
-      "style": {
-        "type": "rect",
-        "ratio": 1.755
-      },
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0
-    },
-    {
-      "key": "csp_XYQBiu_斗鱼",
-      "name": "🐟斗鱼┃直播",
-      "type": 3,
-      "api": "https://d.kstore.space/download/6509/lib3/apiv515drpy2.min.js",
-      "ext": "https://d.kstore.space/download/6509/lib3/%E6%96%97%E9%B1%BC%E7%9B%B4%E6%92%AD.js",
       "style": {
         "type": "rect",
         "ratio": 1.755
@@ -535,9 +490,9 @@
             },
             "type": "1"
         },
-        {"name":"解析②","type":1,"url":"http://43.136.176.188:91/api/?key=956465ecb10277fa6a9364d6716f40c6&url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","tnmb","seven","bilibili","1905","NetFilx"],"header":{"User-Agent":"okhttp/4.9.1"}}},
+        {"name":"解析②","type":1,"url":"http://115.231.220.139:1555/djwnb.php?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","tnmb","seven","bilibili","1905","NetFilx"],"header":{"User-Agent":"okhttp/4.9.1"}}},
         {"name":"解析③","type":1,"url":"https://jxjson.icu/neibu.php?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","tnmb","seven","bilibili","1905","NetFilx"],"header":{"User-Agent":"okhttp/4.9.1"}}},
-        {"name":"解析④","type":1,"url":"http://43.136.176.188:91/api/?key=956465ecb10277fa6a9364d6716f40c6&url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","tnmb","seven","bilibili","1905","NetFilx"],"header":{"User-Agent":"okhttp/4.9.1"}}}
+        {"name":"解析④","type":1,"url":"http://43.136.176.188:91/api/?key=db6a72487428e783831e6b72eb4fda41&url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","tnmb","seven","bilibili","1905","NetFilx"],"header":{"User-Agent":"okhttp/4.9.1"}}}
   ],
   "doh": [
   {
