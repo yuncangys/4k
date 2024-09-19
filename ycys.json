@@ -73,8 +73,8 @@
             //"api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/drpy2.min.js",
             //"ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/腾讯视频.js"
         //},
-    {"key":"芒果视频","name":"笀芒4K-💯┃vip","type":3,"api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/drpy2.min.js","ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/芒果视频.js"},
-		{"key":"芒果","name":"忙忙┃备用","type":3,"api":"http://1.12.237.246:9696/tvbox/lib/drpy2.min.js","ext":"http://1.12.237.246:9696/tvbox/lib/mangguo.js"},
+    //{"key":"芒果视频","name":"笀芒4K-💯┃vip","type":3,"api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/drpy2.min.js","ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/芒果视频.js"},
+		{"key":"芒果","name":"果果4K-💯┃vip","type":3,"api":"http://1.12.237.246:9696/tvbox/lib/drpy2.min.js","ext":"http://1.12.237.246:9696/tvbox/lib/mangguo.js"},
 		{"key": "csp_瓜子","name": "瓜子3K-💯┃vip","api": "csp_Gz360","type": 3,"searchable": 1,"playerType": 2,"timeout": 30,"changeable": 0,"jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1724726039958/ouyang1.txt;md5;f0fe66c0299c3e68a450add5945adad1"},
 		{"key": "酷看","name": "酷看-💯┃2K","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.tvkuys.xyz/api.php/app/"},
 		{"key": "csp_LiteApple","name": "🍎小苹果-💯┃2k","type": 3,"searchable": 1,"api": "csp_LiteApple","playerType": 1,"filterable": 1},
