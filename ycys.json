@@ -6,6 +6,19 @@
   
     "sites": [
         {"key":"豆瓣","name":"📽️聚🈴搜索⇙最新数据➮点开设置➮[重置APP]","type":3,"api":"csp_Douban","searchable":0},
+        {
+            "key": "配置中心",
+            "name": "⚙️配置｜中心",
+            "type": 3,
+            "api": "csp_Config",
+            "searchable": 0,
+            "changeable": 0,
+            "indexs": 0,
+            "style": {
+                "type": "rect",
+                "ratio": 1.597
+            }
+        },
 	{
 			"key": "4K",
 			"name": "云仓4K-💯┃vip",
@@ -74,8 +87,36 @@
             //"ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/腾讯视频.js"
         //},
     //{"key":"芒果视频","name":"笀芒4K-💯┃vip","type":3,"api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/drpy2.min.js","ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/芒果视频.js"},
-		{"key":"芒果","name":"果果4K-💯┃vip","type":3,"api":"http://1.12.237.246:9696/tvbox/lib/drpy2.min.js","ext":"http://1.12.237.246:9696/tvbox/lib/mangguo.js"},
-		{"key": "csp_瓜子","name": "瓜子3K-💯┃vip","api": "csp_Gz360","type": 3,"searchable": 1,"playerType": 2,"timeout": 30,"changeable": 0,"jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1724726039958/ouyang1.txt;md5;f0fe66c0299c3e68a450add5945adad1"},
+		{
+            "key": "guoguo",
+            "name": "果果4K-💯┃vip",
+            "type": 3,
+            "api": "http://47.76.163.123/drpy_dzlive/drpy_libs/drpy2.min.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "order_num": 0,
+            "changeable": 0,
+            "ext": "http://www.mpanso.com/%E5%B0%8F%E7%B1%B3/guoguo.js"
+        },
+        {"key":"奇异","name":"奇奇视频-💯┃解析","type":3,"api":"https://gitee.com/liuqu01/liuqutvbox/raw/master/drpy_libs/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"order_num":0,"ext":"https://gitee.com/liuqu01/liuqutvbox/raw/master/js/%E5%A5%87%E7%8F%8D%E5%BC%82%E5%85%BD%5B%E5%AE%98%5D.js"},
+        {
+            "key": "优酷视频",
+            "name": "酷酷视频-💯｜解析",
+            "type": 3,
+            "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/drpy2.min.js",
+            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/优酷视频.js"
+        },
+        {
+            "key": "瓜子｜影视",
+            "name": "瓜子3K-💯┃vip",
+            "type": 3,
+            "api": "csp_Gz360",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+		//{"key": "csp_瓜子","name": "瓜子3K-💯┃vip","api": "csp_Gz360","type": 3,"searchable": 1,"playerType": 2,"timeout": 30,"changeable": 0,"jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1724726039958/ouyang1.txt;md5;f0fe66c0299c3e68a450add5945adad1"},
 		{"key": "酷看","name": "酷看-💯┃2K","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.tvkuys.xyz/api.php/app/"},
 		{"key": "csp_LiteApple","name": "🍎小苹果-💯┃2k","type": 3,"searchable": 1,"api": "csp_LiteApple","playerType": 1,"filterable": 1},
         {"key": "csp_paopao", "name": "泡泡-💯┃2K", "type": 3, "changeable": 0,"api": "csp_Pptv", "playerType": 2, "filterable": 1, "ext": "https://yigeg.pro","jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1724936798422/xpg1.jar;md5;d982e61fe8a00da65435afd86938d2da"}, 
@@ -139,11 +180,30 @@
      "jar":"https://jihulab.com/run1006/hdr/-/raw/main/jar/vip.jar",
      "ext":"https://jihulab.com/run1006/hdr/-/raw/main/lib/6Vip.json"
     },
+    {
+            "key": "视频库",
+            "name": "视频库-💯｜2K",
+            "type": 3,
+            "api": "csp_WebVidHub",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 0,
+            "ext": "https://vidhub1.cc"
+        },
     {"key": "低端影视","name": "低端影视-💯┃2K","type": 3,"api": "csp_Ddys","searchable": 1,"quickSearch": 1,"filterable":1,"jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar;md5;c115831a4f54069a5c4867ec3c3acaac"},
     {"key":"热播","name":"热播云仓-💯┃2k","type":3,"api":"csp_TTian","playerType":1,"ext":"http://v.rbotv.cn","jar": "https://jihulab.com/run1006/hdr/-/raw/main/lib/cesi.jar"},
 {"key": "csp_SeedHub","name": "直连-💯┃磁力","type": 3,"api": "csp_SeedHub","searchable": 1,"quickSearch": 1,"playerType": 1,"filterable": 1},
-{"key": "两个磁力","name": "直连BT-💯┃2K","type": 3,"api": "csp_Wexbttwo","searchable": 1,"changeable": 1},
     {"key": "wxb","name": "🥊搏击┃拳击","type": 3,"playerType":" 1","api": "https://jihulab.com/run1006/hdr/-/raw/main/quanji1.js","ext":"https://jihulab.com/run1006/hdr/-/raw/main/quanji2.js"},
+    {
+            "key": "子子影视",
+            "name": "子子｜影视",
+            "type": 3,
+            "api": "csp_XYQHiker",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/XYQHiker/子子影视.json"
+        },
     {
       "key": "csp_Kuaikan",
       "name": "👀┃快看┃影视",
@@ -211,7 +271,55 @@
       "quickSearch": 0,
       "changeable": 0
     },
-    {"key":"星芽短剧","name":"在线短剧-💯┃秒播","type":3,"api":"csp_AppXY","searchable":1,"quickSearch":0,"filterable":0,"jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar;md5;c115831a4f54069a5c4867ec3c3acaac"},
+    {"key":"星芽短剧","name":"星芽短剧┃秒播","type":3,"api":"csp_AppXY","searchable":1,"quickSearch":0,"filterable":0,"jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar;md5;c115831a4f54069a5c4867ec3c3acaac"},
+    {
+            "key": "在线短剧",
+            "name": "在线｜短剧",
+            "type": 3,
+            "api": "csp_Duanju",
+            "searchable": 1,
+            "changeable": 0,
+            "style": {
+                "type": "rect",
+                "ratio": 1.433
+            }
+        },
+        {
+            "key": "天堂短剧",
+            "name": "天堂｜短剧",
+            "type": 3,
+            "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/drpy2.min.js",
+            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/天堂短剧.js"
+        },
+        {
+            "key": "爱你短剧",
+            "name": "爱你｜短剧",
+            "type": 3,
+            "api": "csp_XYQHiker",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/XYQHiker/爱你短剧.json"
+        },
+        {
+            "key": "河马短剧",
+            "name": "河马｜短剧",
+            "type": 3,
+            "api": "csp_XYQHiker",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/XYQHiker/河马短剧.json"
+        },
+        {
+            "key": "韩小圈",
+            "name": "韩小圈｜APP",
+            "type": 3,
+            "api": "csp_HanXiaoQuan",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
     {"key": "NT动漫","name": "NT动漫-💯┃秒播","type": 3,"api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/drpy2.min.js","ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/NT动漫.js"},
 {"key": "58动漫","name": "58动漫-💯┃秒播","type": 3,"api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/drpy2.min.js","ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/58动漫.js"},
 {
