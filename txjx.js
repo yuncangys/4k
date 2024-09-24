@@ -15,7 +15,7 @@ var rule = {
     },
     timeout: 5000,
     cate_exclude: '会员|游戏|全部',
-    class_name: '4K精选&4K电影&4K电视剧&4K综艺&4K动漫&4K少儿&4K纪录片',
+    class_name: '精选&电影&电视剧&综艺&动漫&少儿&纪录片',
     class_url: 'choice&movie&tv&variety&cartoon&child&doco',
     limit: 20,
     play_parse: true,
@@ -126,7 +126,7 @@ lazy: $js.toString(() => {
                 let vid = video_lists[0];
                 url = "https://v.qq.com/x/cover/" + cid + "/" + vid + ".html";
                 d.push({
-                    title: "云仓4K",
+                    title: "腾云官解",
                     url: url
                 })
             } else if (video_lists.length > 1) {
