@@ -56,7 +56,7 @@ lazy: $js.toString(() => {
             }
         };
 
-        parseLink("http://43.248.100.147:6068/4k/4k.php?url=" + input);
+        parseLink("http://43.248.100.147:6068/KEY/XGJ/root/key/guanfangjson.php?url=" + input);
         if (!longestLink) {
             parseLink("http://43.248.100.147:6068/KEY/XGJ/root/key/guanfangjson.php?url=" + input);
         }
