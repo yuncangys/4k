@@ -1164,7 +1164,9 @@ BRTV新闻,http://61.163.58.195:1718/beijin.php?id=bjxw
 凤凰中文高清,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
 凤凰中文高清,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 凤凰资讯频道,http://cdn5.1678520.xyz/live/live1.1.php?id=fhzx
+凤凰资讯频道,http://58.144.154.93/qctv.fengshows.cn/live/0701pin72.m3u8
 凤凰香港频道,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
+凤凰香港频道,http://58.144.154.93/qctv.fengshows.cn/live/0701phk72.m3u8
 TVBS歡樂台,http://37.27.111.214:8080/live/24/hls.m3u8
 TVBS歡樂台,http://shuma004.chunfengyun.top:8080/live/24/hls.m3u8
 香港🇭🇰卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8#http://zhibo.hkstv.tv/livestream/mutfysrq.flv
