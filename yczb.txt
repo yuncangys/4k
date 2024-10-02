@@ -746,7 +746,7 @@ CETV-4,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
 甘肃卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226522/index.m3u8
 
 🇨🇳｜北京频道,#genre#
-北京纪实科教,http://61.163.58.195:35338/itv/1000000005000265020.m3u8?cdn=ystenlive
+北京纪实科教,http://49.7.69.235/downflv.brtvcloud.com/8klive/8kliveok.m3u8
 北京卡酷少儿,http://61.163.58.195:35338/itv/7851974109718180595.m3u8?cdn=bestzb
 BRTV文艺,http://61.163.58.195:1718/beijin.php?id=bjwy
 BRTV影视,http://61.163.58.195:1718/beijin.php?id=bjys
@@ -867,13 +867,29 @@ BRTV新闻,http://61.163.58.195:1718/beijin.php?id=bjxw
 安徽科教,http://61.163.58.195:1718/anhui.php?id=ahnykj
 安徽国际,http://61.163.58.195:1718/anhui.php?id=ahgj
 安徽移动,http://61.163.58.195:1718/anhui.php?id=ahyd
-🇨🇳｜广州频道,#genre#
+🇨🇳｜广东频道,#genre#
+广东珠江,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010091/1.m3u8
 广州综合,http://61.163.58.195:1718/guangzhou.php?id=zhonghe
+广州综合,https://tencentplaywebsite.gztv.com/live/zonghes.m3u8?txSecret=7f207b98eacbb949228418e8efd54d2f&txTime=1924b1ba881
+广州综合,http://117.72.68.25:9930/gztv.php?id=gzzh
 广州新闻,http://61.163.58.195:1718/guangzhou.php?id=xinwen
+广州新闻,http://117.72.68.25:9930/gztv.php?id=gzxw
+广州新闻,http://php.jdshipin.com:8880/gztv.php?id=xinwen
 广州竞赛,http://61.163.58.195:1718/guangzhou.php?id=jingsai
+广州竞赛,http://117.72.68.25:9930/gztv.php?id=gzjs
+广州竞赛,http://php.jdshipin.com:8880/gztv.php?id=jingsai
 广州影视,http://61.163.58.195:1718/guangzhou.php?id=yingshi
+广州影视,http://117.72.68.25:9930/gztv.php?id=gzys
+广州影视,http://php.jdshipin.com:8880/gztv.php?id=yingshi
 广州法治,http://61.163.58.195:1718/guangzhou.php?id=fazhi
+广州法治,http://117.72.68.25:9930/gztv.php?id=gzfz
+广州法治,http://php.jdshipin.com:8880/gztv.php?id=fazhi
 广州南国都市,http://61.163.58.195:1718/guangzhou.php?id=shenghuo
+广州南国都市,http://117.72.68.25:9930/gztv.php?id=gzsh
+广州南国都市,http://php.jdshipin.com:8880/gztv.php?id=shenghuo
+东莞新闻综合,https://stream.sun0769.com/dgrtv1/mp4tv1_800/index.m3u8
+东莞生活资讯,https://stream.sun0769.com/dgrtv1/mp4tv2_800/index.m3u8
+佛山影视,http://php.jdshipin.com:8880/fstv.php?id=fsys
 🇨🇳｜海南频道,#genre#
 海南新闻频道,http://61.163.58.195:1718/hainan.php?id=xwpd
 海南文旅频道,http://61.163.58.195:1718/hainan.php?id=wlpd
@@ -1151,6 +1167,7 @@ BRTV新闻,http://61.163.58.195:1718/beijin.php?id=bjxw
 凤凰香港频道,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
 TVBS歡樂台,http://37.27.111.214:8080/live/24/hls.m3u8
 TVBS歡樂台,http://shuma004.chunfengyun.top:8080/live/24/hls.m3u8
+香港🇭🇰卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8#http://zhibo.hkstv.tv/livestream/mutfysrq.flv
 香港🇭🇰卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 香港🇭🇰面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 CGTN频道,https://0472.org/hls/cgtn.m3u8
